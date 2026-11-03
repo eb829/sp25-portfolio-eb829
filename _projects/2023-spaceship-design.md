@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Spaceship Design
+title: Summer Project
 description: Internship Project Summer 2026
 technologies: [SolidWorks, Powerpoint, Sheets]
 image: assets/images/Screenshot 2026-11-03 at 14.50.20.png
