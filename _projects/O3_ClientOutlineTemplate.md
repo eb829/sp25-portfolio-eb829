@@ -1,13 +1,13 @@
 ---
 layout: project
-title: Client Outline Template
+title: SLF Project Proposal
 description: PDF example project
 technologies: [Template, PDF]
 image: /assets/images/radio-machine-cad.jpg
 permalink: /projects/client-outline/
 ---
 
-<h2>Client Outline Template</h2>
+<h2>MAE 2250 </h2>
 
 <p>This is a PDF of my project for reference:</p>
 
