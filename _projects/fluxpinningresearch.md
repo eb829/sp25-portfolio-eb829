@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Summer Project
-description: Internship Project Summer 2026
-technologies: [SolidWorks, Powerpoint, Sheets]
+description: Internation Baccalaureate Program Extended Essay 
+technologies: [Sheets]
 image: assets/images/iblogo.png
 ---
